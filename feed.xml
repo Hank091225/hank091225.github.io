@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>赵宇 · 《晚点 LatePost》</title>
+    <link>https://your-domain.com/</link>
+    <atom:link href="https://your-domain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>记者 · 报道科技与商业</description>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 01 Jun 2026 13:00:43 GMT</lastBuildDate>
+    <item>
+      <title>大模型的价格战，打到了它自己头上</title>
+      <link>https://your-domain.com/article.html?a=ai-pricing-war</link>
+      <guid isPermaLink="true">https://your-domain.com/article.html?a=ai-pricing-war</guid>
+      <category>特稿</category>
+      <dc:creator>赵宇</dc:creator>
+      <pubDate>Mon, 18 May 2026 08:00:00 GMT</pubDate>
+      <description>一年内 API 价格下降九成。当便宜成为唯一的共识，那些曾经笃信「贵就是好」的公司，开始重新计算自己的命。</description>
+    </item>
+    <item>
+      <title>把骑手还给红绿灯</title>
+      <link>https://your-domain.com/article.html?a=delivery-rider-algorithm</link>
+      <guid isPermaLink="true">https://your-domain.com/article.html?a=delivery-rider-algorithm</guid>
+      <category>观察</category>
+      <dc:creator>赵宇</dc:creator>
+      <pubDate>Mon, 09 Mar 2026 08:00:00 GMT</pubDate>
+      <description>一家外卖平台悄悄改了它的算法。这次不是为了更快，而是为了让人能在路口停下来。</description>
+    </item>
+    <item>
+      <title>第二曲线，还是悬崖边的助跑</title>
+      <link>https://your-domain.com/article.html?a=ev-second-curve</link>
+      <guid isPermaLink="true">https://your-domain.com/article.html?a=ev-second-curve</guid>
+      <category>评论</category>
+      <dc:creator>赵宇</dc:creator>
+      <pubDate>Sat, 22 Nov 2025 08:00:00 GMT</pubDate>
+      <description>当一家造车公司宣布要做手机、做机器人、做一切，它到底是在寻找未来，还是在掩盖现在卖不动的车？</description>
+    </item>
+    <item>
+      <title>一个人维护了半个互联网，然后他累了</title>
+      <link>https://your-domain.com/article.html?a=open-source-foundation</link>
+      <guid isPermaLink="true">https://your-domain.com/article.html?a=open-source-foundation</guid>
+      <category>人物</category>
+      <dc:creator>赵宇</dc:creator>
+      <pubDate>Thu, 14 Aug 2025 08:00:00 GMT</pubDate>
+      <description>全世界都在用他写的那行代码。但当他在 issue 里说自己撑不下去时，回应他的只有更多的 bug 报告。</description>
+    </item>
+    <item>
+      <title>他们花了三年上云，又花了三年逃离</title>
+      <link>https://your-domain.com/article.html?a=cloud-exit</link>
+      <guid isPermaLink="true">https://your-domain.com/article.html?a=cloud-exit</guid>
+      <category>特稿</category>
+      <dc:creator>赵宇</dc:creator>
+      <pubDate>Wed, 30 Apr 2025 08:00:00 GMT</pubDate>
+      <description>一笔越来越贵的云账单，逼着一批公司重新把服务器搬回了自己的机房。这不是技术的倒退，是账本的胜利。</description>
+    </item>
+    <item>
+      <title>第二次创业的人，都在和自己的名声打架</title>
+      <link>https://your-domain.com/article.html?a=founder-second-time</link>
+      <guid isPermaLink="true">https://your-domain.com/article.html?a=founder-second-time</guid>
+      <category>人物</category>
+      <dc:creator>赵宇</dc:creator>
+      <pubDate>Thu, 05 Dec 2024 08:00:00 GMT</pubDate>
+      <description>成功过一次之后，最大的对手不再是市场，而是所有人——包括你自己——对你的期待。</description>
+    </item>
+    <item>
+      <title>县城里的「数据工厂」</title>
+      <link>https://your-domain.com/article.html?a=data-annotation-town</link>
+      <guid isPermaLink="true">https://your-domain.com/article.html?a=data-annotation-town</guid>
+      <category>特稿</category>
+      <dc:creator>赵宇</dc:creator>
+      <pubDate>Fri, 19 Jul 2024 08:00:00 GMT</pubDate>
+      <description>人工智能的「智能」，有一部分是在一个北方小县城的写字楼里，被一帧一帧标注出来的。</description>
+    </item>
+  </channel>
+</rss>
